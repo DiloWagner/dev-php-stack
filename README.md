@@ -38,7 +38,6 @@ Copiar o arquivo **.env.example** para **.env** e alterar as variáveis de ambie
 | MYSQL_VERSION        | Versão do BD MySQL (5.6, 5.6.35, 5.7 ou latest) |
 | MYSQL_DATA           | Diretório onde serão armazenados os dados do MySQL |
 | MYSQL_ROOT_PASSWORD  | Senha do usuário **root** do MySQL |
-| MONGO_DATA           | Diretório onde serão armazenados os dados do MongoDB |
 | NGINX_HOSTS_CONF     | Díretório que pussui arquivos de configuração de virtualhosts(sites) do nginx |
 | WWW_DATA             | Document root onde estão os arquivos dos sites |
 
