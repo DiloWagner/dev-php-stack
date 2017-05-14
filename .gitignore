@@ -1,0 +1,6 @@
+.env
+.DS_Store
+mysql-data
+!mysql-data/README.md
+data/
+conf/nginx/nginx.d
